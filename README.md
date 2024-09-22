@@ -21,6 +21,7 @@ Ce projet est un scraper web développé en Python qui extrait des citations d'u
    cd Scraper
 
 3. Installez les dépendances :
+   ```bash
    pip install requests beautifulsoup4
 
 ## Utilisation
