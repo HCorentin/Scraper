@@ -1,7 +1,5 @@
 # Scraper
 
-# Mon Projet de Scraping
-
 ## Description
 
 Ce projet est un scraper web développé en Python qui extrait des citations d'un site dédié à l'apprentissage du web scraping, [Quotes to Scrape](http://quotes.toscrape.com/). Le script récupère les citations et les auteurs et les affiche dans la console.
@@ -13,3 +11,7 @@ Ce projet est un scraper web développé en Python qui extrait des citations d'u
 - Beautiful Soup
 
 ## Installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/HCorentin/Scraper.git
