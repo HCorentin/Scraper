@@ -15,3 +15,16 @@ Ce projet est un scraper web développé en Python qui extrait des citations d'u
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/HCorentin/Scraper.git
+
+2. Accédez au dossier du projet :
+   ```bash
+   cd Scraper
+
+3. Installez les dépendances :
+   pip install requests beautifulsoup4
+
+## Utilisation
+
+```bash
+python scraper.py
+
